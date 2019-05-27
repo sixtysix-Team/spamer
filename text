@@ -1,0 +1,663 @@
+
+
+
+
+#ngapain lu nyet, record gua sumpahin mati diember#
+
+clear
+sleep 1
+echo "♥ LOADING ♥" | lolcat
+sleep 3
+clear
+figlet Wellcome | lolcat
+sleep 2
+clear
+figlet Cinta | lolcat
+sleep 1
+figlet Ditolak | lolcat
+sleep 2
+figlet Spam | lolcat
+sleep 1
+figlet Bertindak | lolcat
+sleep 2
+clear
+figlet Spamer | lolcat
+echo "∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞
+
+             ♥Cinta Ditolak Spam Bertindak♥
+
+♥ Coded   : BLANK
+♥ Team    : sixtysix hackteam
+♥ Github  : https://github.com/sixtysix-Team
+♥ Youtube : hack 606
+
+∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞" | lolcat
+
+###################################################
+# CTRL + C
+###################################################
+trap ctrl_c INT
+ctrl_c() {
+clear
+echo "[#]> (Ctrl + C ) Detected, Trying To Exit ... " | lolcat
+echo "[#]> TIDAK UNTUK KEJAHATAN" | lolcat
+sleep 1
+echo ""
+echo "[#]> BLANK" | lolcat
+
+echo "[#]> see you gaes :)..." | lolcat
+sleep 1
+exit
+}
+
+lagi=1
+while [ $lagi -lt 5 ];
+do
+echo""
+echo""
+echo ""
+echo "Pilihan para jomblo" | lolcat
+echo ""
+sleep 2
+echo "1. SpamCall" | lolcat
+echo "~~~~~~~~~~~~~~~~~~" | lolcat
+echo "2. SpamSms" | lolcat
+echo "~~~~~~~~~~~~~~~~~~" | lolcat
+echo "3. SpamMail" | lolcat
+echo "~~~~~~~~~~~~~~~~~~" | lolcat
+echo "4. SpamWa" | lolcat
+echo "~~~~~~~~~~~~~~~~~~" | lolcat
+echo "5. exit" | lolcat
+echo ""
+echo  "╭─root@BLANK" | lolcat
+read -p "╰─#" pil;
+
+
+case $pil in
+1) clear
+toilet -f standard " BLANK " -F gay
+sleep 1
+pkg install php -y
+git clone https://github.com/revan-ar/spamcall
+cd spamcall
+php call.php
+
+;;
+
+2) clear
+toilet -f standard " BLANK " -F gay
+pkg  install php -y
+git clone https://github.com/revan-ar/yapulsa
+cd yapulsa
+php spam.php
+
+;;
+
+3) clear
+toilet -f standard " BLANK " -F gay
+pkg install php -y
+git clone https://github.com/revan-ar/mail-spammer
+cd mail-spammer
+php mail.php
+
+;;
+
+4) clear
+toilet -f standard " BLANK " -F gay
+pkg install php -y
+git clone https://github.com/siputra12/prank
+cd prank
+php wa.php
+
+;;
+
+5) clear
+echo "created by : BLANK_TEAM" | lolcat
+exit
+;;
+
+esac
+done
+done
+
+■■■■■■■■■■■■■■■■"
+echo "5. exit" | lolcat
+echo ""
+echo  "╭─root@BLANK" | lolcat
+read -p "╰─#" pil;
+
+
+case $pil in
+1) clear
+toilet -f standard " BLANK " -F gay
+sleep 1
+pkg install php -y
+git clone https://github.com/revan-ar/spamcall
+cd spamcall
+php call.php
+
+;;
+
+2) clear
+toilet -f standard " BLANK " -F gay
+pkg  install php -y
+git clone https://github.com/revan-ar/yapulsa
+cd yapulsa
+php spam.php
+
+;;
+
+3) clear
+toilet -f standard " BLANK " -F gay
+pkg install php -y
+git clone https://github.com/revan-ar/mail-spammer
+cd mail-spammer
+php mail.php
+
+;;
+
+4) clear
+toilet -f standard " BLANK " -F gay
+pkg install php -y
+git clone https://github.com/siputra12/prank
+cd prank
+php wa.php
+
+;;
+
+5) clear
+echo "created by : BLANK_TEAM" | lolcat
+exit
+;;
+
+esac
+done
+done
+
+■■■■■■■■■■■■■■■■"
+echo "5. exit" | lolcat
+echo ""
+echo  "╭─root@BLANK" | lolcat
+read -p "╰─#" pil;
+
+
+case $pil in
+1) clear
+toilet -f standard " BLANK " -F gay
+sleep 1
+pkg install php -y
+git clone https://github.com/revan-ar/spamcall
+cd spamcall
+php call.php
+
+;;
+
+2) clear
+toilet -f standard " BLANK " -F gay
+pkg  install php -y
+git clone https://github.com/revan-ar/yapulsa
+cd yapulsa
+php spam.php
+
+;;
+
+3) clear
+toilet -f standard " BLANK " -F gay
+pkg install php -y
+git clone https://github.com/revan-ar/mail-spammer
+cd mail-spammer
+php mail.php
+
+;;
+
+4) clear
+toilet -f standard " BLANK " -F gay
+pkg install php -y
+git clone https://github.com/siputra12/prank
+cd prank
+php wa.php
+
+;;
+
+5) clear
+echo "created by : BLANK_TEAM" | lolcat
+exit
+;;
+
+esac
+done
+done
+
+■■■■■■■■■■■■■■■■"
+echo "5. exit" | lolcat
+echo ""
+echo  "╭─root@BLANK" | lolcat
+read -p "╰─#" pil;
+
+
+case $pil in
+1) clear
+toilet -f standard " BLANK " -F gay
+sleep 1
+pkg install php -y
+git clone https://github.com/revan-ar/spamcall
+cd spamcall
+php call.php
+
+;;
+
+2) clear
+toilet -f standard " BLANK " -F gay
+pkg  install php -y
+git clone https://github.com/revan-ar/yapulsa
+cd yapulsa
+php spam.php
+
+;;
+
+3) clear
+toilet -f standard " BLANK " -F gay
+pkg install php -y
+git clone https://github.com/revan-ar/mail-spammer
+cd mail-spammer
+php mail.php
+
+;;
+
+4) clear
+toilet -f standard " BLANK " -F gay
+pkg install php -y
+git clone https://github.com/siputra12/prank
+cd prank
+php wa.php
+
+;;
+
+5) clear
+echo "created by : BLANK_TEAM" | lolcat
+exit
+;;
+
+esac
+done
+done
+
+■■■■■■■■■■■■■■■■"
+echo "5. exit" | lolcat
+echo ""
+echo  "╭─root@BLANK" | lolcat
+read -p "╰─#" pil;
+
+
+case $pil in
+1) clear
+toilet -f standard " BLANK " -F gay
+sleep 1
+pkg install php -y
+git clone https://github.com/revan-ar/spamcall
+cd spamcall
+php call.php
+
+;;
+
+2) clear
+toilet -f standard " BLANK " -F gay
+pkg  install php -y
+git clone https://github.com/revan-ar/yapulsa
+cd yapulsa
+php spam.php
+
+;;
+
+3) clear
+toilet -f standard " BLANK " -F gay
+pkg install php -y
+git clone https://github.com/revan-ar/mail-spammer
+cd mail-spammer
+php mail.php
+
+;;
+
+4) clear
+toilet -f standard " BLANK " -F gay
+pkg install php -y
+git clone https://github.com/siputra12/prank
+cd prank
+php wa.php
+
+;;
+
+5) clear
+echo "created by : BLANK_TEAM" | lolcat
+exit
+;;
+
+esac
+done
+done
+
+■■■■■■■■■■■■■■■■"
+echo "5. exit" | lolcat
+echo ""
+echo  "╭─root@BLANK" | lolcat
+read -p "╰─#" pil;
+
+
+case $pil in
+1) clear
+toilet -f standard " BLANK " -F gay
+sleep 1
+pkg install php -y
+git clone https://github.com/revan-ar/spamcall
+cd spamcall
+php call.php
+
+;;
+
+2) clear
+toilet -f standard " BLANK " -F gay
+pkg  install php -y
+git clone https://github.com/revan-ar/yapulsa
+cd yapulsa
+php spam.php
+
+;;
+
+3) clear
+toilet -f standard " BLANK " -F gay
+pkg install php -y
+git clone https://github.com/revan-ar/mail-spammer
+cd mail-spammer
+php mail.php
+
+;;
+
+4) clear
+toilet -f standard " BLANK " -F gay
+pkg install php -y
+git clone https://github.com/siputra12/prank
+cd prank
+php wa.php
+
+;;
+
+5) clear
+echo "created by : BLANK_TEAM" | lolcat
+exit
+;;
+
+esac
+done
+done
+
+■■■■■■■■■■■■■■■■"
+echo "5. exit" | lolcat
+echo ""
+echo  "╭─root@BLANK" | lolcat
+read -p "╰─#" pil;
+
+
+case $pil in
+1) clear
+toilet -f standard " BLANK " -F gay
+sleep 1
+pkg install php -y
+git clone https://github.com/revan-ar/spamcall
+cd spamcall
+php call.php
+
+;;
+
+2) clear
+toilet -f standard " BLANK " -F gay
+pkg  install php -y
+git clone https://github.com/revan-ar/yapulsa
+cd yapulsa
+php spam.php
+
+;;
+
+3) clear
+toilet -f standard " BLANK " -F gay
+pkg install php -y
+git clone https://github.com/revan-ar/mail-spammer
+cd mail-spammer
+php mail.php
+
+;;
+
+4) clear
+toilet -f standard " BLANK " -F gay
+pkg install php -y
+git clone https://github.com/siputra12/prank
+cd prank
+php wa.php
+
+;;
+
+5) clear
+echo "created by : BLANK_TEAM" | lolcat
+exit
+;;
+
+esac
+done
+done
+
+■■■■■■■■■■■■■■■■"
+echo "5. exit" | lolcat
+echo ""
+echo  "╭─root@BLANK" | lolcat
+read -p "╰─#" pil;
+
+
+case $pil in
+1) clear
+toilet -f standard " BLANK " -F gay
+sleep 1
+pkg install php -y
+git clone https://github.com/revan-ar/spamcall
+cd spamcall
+php call.php
+
+;;
+
+2) clear
+toilet -f standard " BLANK " -F gay
+pkg  install php -y
+git clone https://github.com/revan-ar/yapulsa
+cd yapulsa
+php spam.php
+
+;;
+
+3) clear
+toilet -f standard " BLANK " -F gay
+pkg install php -y
+git clone https://github.com/revan-ar/mail-spammer
+cd mail-spammer
+php mail.php
+
+;;
+
+4) clear
+toilet -f standard " BLANK " -F gay
+pkg install php -y
+git clone https://github.com/siputra12/prank
+cd prank
+php wa.php
+
+;;
+
+5) clear
+echo "created by : BLANK_TEAM" | lolcat
+exit
+;;
+
+esac
+done
+done
+
+■■■■■■■■■■■■■■■■"
+echo "5. exit" | lolcat
+echo ""
+echo  "╭─root@BLANK" | lolcat
+read -p "╰─#" pil;
+
+
+case $pil in
+1) clear
+toilet -f standard " BLANK " -F gay
+sleep 1
+pkg install php -y
+git clone https://github.com/revan-ar/spamcall
+cd spamcall
+php call.php
+
+;;
+
+2) clear
+toilet -f standard " BLANK " -F gay
+pkg  install php -y
+git clone https://github.com/revan-ar/yapulsa
+cd yapulsa
+php spam.php
+
+;;
+
+3) clear
+toilet -f standard " BLANK " -F gay
+pkg install php -y
+git clone https://github.com/revan-ar/mail-spammer
+cd mail-spammer
+php mail.php
+
+;;
+
+4) clear
+toilet -f standard " BLANK " -F gay
+pkg install php -y
+git clone https://github.com/siputra12/prank
+cd prank
+php wa.php
+
+;;
+
+5) clear
+echo "created by : BLANK_TEAM" | lolcat
+exit
+;;
+
+esac
+done
+done
+
+■■■■■■■■■■■■■■■■"
+echo "5. exit" | lolcat
+echo ""
+echo  "╭─root@BLANK" | lolcat
+read -p "╰─#" pil;
+
+
+case $pil in
+1) clear
+toilet -f standard " BLANK " -F gay
+sleep 1
+pkg install php -y
+git clone https://github.com/revan-ar/spamcall
+cd spamcall
+php call.php
+
+;;
+
+2) clear
+toilet -f standard " BLANK " -F gay
+pkg  install php -y
+git clone https://github.com/revan-ar/yapulsa
+cd yapulsa
+php spam.php
+
+;;
+
+3) clear
+toilet -f standard " BLANK " -F gay
+pkg install php -y
+git clone https://github.com/revan-ar/mail-spammer
+cd mail-spammer
+php mail.php
+
+;;
+
+4) clear
+toilet -f standard " BLANK " -F gay
+pkg install php -y
+git clone https://github.com/siputra12/prank
+cd prank
+php wa.php
+
+;;
+
+5) clear
+echo "created by : BLANK_TEAM" | lolcat
+exit
+;;
+
+esac
+done
+done
+
+■■■■■■■■■■■■■■■■"
+echo "5. exit" | lolcat
+echo ""
+echo  "╭─root@BLANK" | lolcat
+read -p "╰─#" pil;
+
+
+case $pil in
+1) clear
+toilet -f standard " BLANK " -F gay
+sleep 1
+pkg install php -y
+git clone https://github.com/revan-ar/spamcall
+cd spamcall
+php call.php
+
+;;
+
+2) clear
+toilet -f standard " BLANK " -F gay
+pkg  install php -y
+git clone https://github.com/revan-ar/yapulsa
+cd yapulsa
+php spam.php
+
+;;
+
+3) clear
+toilet -f standard " BLANK " -F gay
+pkg install php -y
+git clone https://github.com/revan-ar/mail-spammer
+cd mail-spammer
+php mail.php
+
+;;
+
+4) clear
+toilet -f standard " BLANK " -F gay
+pkg install php -y
+git clone https://github.com/siputra12/prank
+cd prank
+php wa.php
+
+;;
+
+5) clear
+echo "created by : BLANK_TEAM" | lolcat
+exit
+;;
+
+esac
+done
+done
+
+■■■■■■■■■■■■■■■■"
